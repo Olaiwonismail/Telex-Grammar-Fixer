@@ -1,4 +1,4 @@
-# Telex Grammar Fixer(HNG-Internship-Stage-3)
+# Telex Grammar Fixer (HNG-Internship-Stage-3)
 
 Telex Grammar Fixer is a modifier integration for the Telex platform that automatically corrects grammatical errors in messages before they are sent.
 
